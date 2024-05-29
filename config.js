@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi 💬💬! ',
     reply: 'Tớ rất muốn nhận món quà của hthanh                   ', // Lưu trữ dữ liệu mà người dùng nhập vào phần reply
     mess: 'Tớ biết mà😙',
-    messDesc: 'Chúng mình đi nhận quà nhé',
+    messDesc: 'Giờ đi nhận quà nhé',
     btnAccept: "Let's go 💖",
     messLink: 'https://thanhdevv.github.io/birthdayThao/'
     //uppppdsa
