@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'Cậu thật sự muốn nhận chứ :> ',
     btnYes: 'Có💖💖💖',
     btnNo: '💔 Khônggg! 💔 ',
-    question:'Bộ cậu muốn nhận quà lắm hả =)))',
+    question:'Cậu có thật sự muốn nhận quà không...',
     reasonPlaceholder: 'Câu trả lời của Oreo',
     btnReply: 'Gửi 💬💬! ',
     reply: 'Tớ rất muốn nhận món quà của hthanh                   ', // Lưu trữ dữ liệu mà người dùng nhập vào phần reply
